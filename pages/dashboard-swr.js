@@ -1,8 +1,9 @@
 import useSwr from "swr"
 
-const fetcher = async()=>{
+const fetcher = async ()=>{
     const response = await fetch("https://localhost:4000/dashboard")
     const data = await response.json()
+    console.log(data)
     return data
 }
 
