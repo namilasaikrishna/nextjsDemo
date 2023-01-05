@@ -1,0 +1,26 @@
+{
+   "dashboard" :{
+    "Posts":20,
+    "Likes":"5k",
+    "Followers":"10K",
+    "Following":420
+    },
+
+    "news":[
+        {
+            "id":1,
+            "name":"News Article 1",
+            "category":"sports"
+        },
+        {
+            "id":2,
+            "name":"News Article 2",
+            "category":"Poltics"
+        },
+        {
+            "id":3,
+            "name":"News Article 3",
+            "category":"Brutal"
+        }
+    ]
+}
